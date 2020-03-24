@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prct020_Widget_Aniversário</string>
+    <string name="faltam">Faltam</string>
+    <string name="para_o_fim_do_ano">E você fara anos, Parabéns!!</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="salvar">Salvar</string>
+</resources>
